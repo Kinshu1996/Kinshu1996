@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinshu1996&label=Profile%20views&color=0e75b6&style=flat" alt="kinshu1996" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently working on **react**
 
 - 📫 How to reach me **ankitagrawal678y@gmail.com**
 
